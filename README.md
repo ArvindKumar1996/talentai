@@ -1,6 +1,6 @@
 # Frontend
 
-# Candidate Screening & Resume Standardization Platform
+## Candidate Screening & Resume Standardization Platform
 
 A React-based web platform to manage job candidate workflows including **job enrichment**, **resume uploads**, **LinkedIn uploads**, **candidate screening**, and **resume standardization**. The platform interacts with a backend API to fetch and process candidate data.
 
