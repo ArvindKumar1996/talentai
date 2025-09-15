@@ -1,3 +1,9 @@
+
+
+
+https://github.com/user-attachments/assets/983269a6-4b7f-4e57-940e-5258238a2448
+
+
 # Frontend
 
 ## Candidate Screening & Resume Standardization Platform
